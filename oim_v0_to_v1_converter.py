@@ -18,7 +18,7 @@ CROSSWALK = {
     "websiteUrl": "websiteUrl",
 }
 
-# Regex for schema-conforming property keys
+# Regex for schema-conforming property keys (v1 keys only)
 VALID_KEY_RE = re.compile(r"^(?!.*[A-Z]{2,})(?=.{1,10}$)[a-z][a-zA-Z0-9]*$")
 
 
@@ -32,6 +32,7 @@ def convert_feature(feature, feature_index):
 
     warnings = []
 
+    # Crosswalk fields
     for v0_field, v1_field in CROSSWALK.items():
         if v0_field in original_props:
             new_props[v1_field] = original_props[v0_field]
@@ -39,8 +40,8 @@ def convert_feature(feature, feature_index):
             new_props[v1_field] = None
             warnings.append(f"Feature {feature_index}: missing '{v0_field}'; set '{v1_field}' to null")
 
-    # Validate property keys
-    invalid_keys = [k for k in new_props if not is_valid_key(k)]
+    # Validate only v1 keys
+    invalid_keys = [k for k in new_props if k in CROSSWALK.values() and not is_valid_key(k)]
     if invalid_keys:
         return None, [
             f"Feature {feature_index} skipped due to invalid property names: {invalid_keys}"
@@ -56,7 +57,7 @@ def main():
     parser.add_argument("output", type=Path, nargs="?", help="Output GeoJSON file (v1); defaults to *_v1.json")
     parser.add_argument("--validate", action="store_true", help="Validate output against v1 schema")
     parser.add_argument("--schema", type=Path, default=Path(__file__).parent / "1.0.0.schema.json",
-                        help="Path to the JSON Schema file for validation")
+                        help="Path to schema file (default: 1.0.0.schema.json in script directory)")
 
     args = parser.parse_args()
 
@@ -92,7 +93,7 @@ def main():
 
     if args.validate:
         if jsonschema is None:
-            print("\nERROR: jsonschema not installed. Install jsonschema to enable validation.")
+            print("\nERROR: jsonschema not installed. Run 'pip install jsonschema' to enable validation.")
             return
         try:
             with args.schema.open() as s:
@@ -105,3 +106,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
