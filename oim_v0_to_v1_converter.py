@@ -1,6 +1,5 @@
 import json
 import argparse
-import re
 from pathlib import Path
 from copy import deepcopy
 
@@ -18,19 +17,16 @@ CROSSWALK = {
     "websiteUrl": "websiteUrl",
 }
 
-# Regex for schema-conforming property keys (v1 keys only)
-VALID_KEY_RE = re.compile(r"^(?!.*[A-Z]{2,})(?=.{1,10}$)[a-z][a-zA-Z0-9]*$")
-
-
-def is_valid_key(key):
-    return VALID_KEY_RE.match(key)
-
-
 def convert_feature(feature, feature_index):
     original_props = feature.get("properties", {})
-    new_props = deepcopy(original_props)
+    new_props = {}
 
     warnings = []
+
+    # Copy original properties, skipping ones in CROSSWALK
+    for k, v in original_props.items():
+        if k not in CROSSWALK:
+            new_props[k] = v
 
     # Crosswalk fields
     for v0_field, v1_field in CROSSWALK.items():
@@ -40,16 +36,8 @@ def convert_feature(feature, feature_index):
             new_props[v1_field] = None
             warnings.append(f"Feature {feature_index}: missing '{v0_field}'; set '{v1_field}' to null")
 
-    # Validate only v1 keys
-    invalid_keys = [k for k in new_props if k in CROSSWALK.values() and not is_valid_key(k)]
-    if invalid_keys:
-        return None, [
-            f"Feature {feature_index} skipped due to invalid property names: {invalid_keys}"
-        ] + warnings
-
     feature["properties"] = new_props
     return feature, warnings
-
 
 def main():
     parser = argparse.ArgumentParser(description="Convert OpenIndexMaps v0 GeoJSON to v1.0.0")
@@ -106,4 +94,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
