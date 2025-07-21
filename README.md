@@ -3,34 +3,45 @@
 This script converts GeoJSON files adhering to the OpenIndexMaps specification version 0.0.0 to version 1.0.0.
 
 ## Features
-- Converts and maps key fields:
-  - `recordIdentifier` → `recId`
-  - `downloadUrl` → `download`
-  - `thumbnailUrl` → `thumbUrl`
-  - `available` → `available`
-  - `websiteUrl` → `websiteUrl`
-- Preserves all other metadata properties.
-- Automatically fills missing crosswalked fields with `null`, logging a warning.
-- Skips features with schema-incompatible property keys.
-- Optionally validates output using a local OIM v1.0.0 schema.
 
-## Usage
+- Converts field names according to the v0-to-v1 crosswalk
+- Preserves all unmapped fields
+- Automatically sets missing required v1 fields (`available`, `websiteUrl`) to `null`
+- Optional validation of output against the v1.0.0 JSON Schema
+- Schema file path can be customized with a command-line argument
 
-```bash
-python oim_v0_to_v1_converter.py input_file.json [output_file.json] [--validate] [--schema path/to/schema.json]
-```
+## Requirements
 
-### Arguments
-- `input_file.json`: Required. Path to input GeoJSON file using OIM v0.0.0.
-- `output_file.json`: Optional. If omitted, defaults to `input_file_v1.json`.
-- `--validate`: Optional. If set, the output will be validated against the JSON Schema.
-- `--schema`: Optional. Path to a JSON Schema file. If not provided, defaults to `1.0.0.schema.json` located next to the script.
+- Python 3.7+
+- Optional: `jsonschema` (for schema validation)
 
-## Installation
-Requires Python 3.10+.
-
-Install the required dependency with:
+Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+```bash
+python oim_v0_to_v1_converter.py INPUT_FILE.geojson [OUTPUT_FILE.geojson] [--validate] [--schema PATH_TO_SCHEMA]
+```
+
+### Arguments
+
+- `INPUT_FILE.geojson`: Required. Path to the input file in v0 format.
+- `OUTPUT_FILE.geojson`: Optional. Output file path. Defaults to `*_v1.geojson`.
+- `--validate`: Optional. Validates the output against the schema file.
+- `--schema`: Optional. Path to a schema JSON file. Defaults to `1.0.0.schema.json` located in the same directory as the script.
+
+## Example
+
+```bash
+python oim_v0_to_v1_converter.py ny-aerial-photos-1980.geojson --validate
+```
+
+## Output
+
+- Prints warnings to stdout for missing crosswalked fields (which are set to `null`)
+- Writes the v1.0.0-formatted GeoJSON to the output file
+- Validates the output against the schema (if `--validate` is specified)

@@ -42,7 +42,7 @@ def convert_feature(feature, feature_index):
 def main():
     parser = argparse.ArgumentParser(description="Convert OpenIndexMaps v0 GeoJSON to v1.0.0")
     parser.add_argument("input", type=Path, help="Input GeoJSON file (v0)")
-    parser.add_argument("output", type=Path, nargs="?", help="Output GeoJSON file (v1); defaults to *_v1.json")
+    parser.add_argument("output", type=Path, nargs="?", help="Output GeoJSON file (v1); defaults to *_v1.geojson")
     parser.add_argument("--validate", action="store_true", help="Validate output against v1 schema")
     parser.add_argument("--schema", type=Path, default=Path(__file__).parent / "1.0.0.schema.json",
                         help="Path to schema file (default: 1.0.0.schema.json in script directory)")
@@ -52,7 +52,7 @@ def main():
     with args.input.open() as f:
         data = json.load(f)
 
-    output_path = args.output or args.input.with_name(args.input.stem + "_v1.json")
+    output_path = args.output or args.input.with_name(args.input.stem + "_v1.geojson")
 
     output = {
         "type": "FeatureCollection",
