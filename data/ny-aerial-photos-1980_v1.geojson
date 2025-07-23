@@ -1,0 +1,1749 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-73",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near North Lansing in Locke (13092) in Cayuga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200650.fpx/info.json",
+        "recId": "ss:200650",
+        "download": "http://stor.artstor.org/stor/bcd5b36a-8910-4e5c-83b9-0eeed45bbf43.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/bcd5b36a-8910-4e5c-83b9-0eeed45bbf43_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483251,
+          42.610896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-56",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near West Danby in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200642.fpx/info.json",
+        "recId": "ss:200642",
+        "download": "http://stor.artstor.org/stor/acb08db6-9bf2-4a67-88ec-42f2ca8f6b83.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/acb08db6-9bf2-4a67-88ec-42f2ca8f6b83_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.537067,
+          42.295459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-62",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near South Hill in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200645.fpx/info.json",
+        "recId": "ss:200645",
+        "download": "http://stor.artstor.org/stor/6bf505ad-47da-44cb-b710-f6b8781a3591.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/6bf505ad-47da-44cb-b710-f6b8781a3591_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.534649,
+          42.426815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-68",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Ludlowville in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200648.fpx/info.json",
+        "recId": "ss:200648",
+        "download": "http://stor.artstor.org/stor/878624f3-fe4a-401c-aefc-3265526c6409.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/878624f3-fe4a-401c-aefc-3265526c6409_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.532796,
+          42.559647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-58",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Stratton in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200643.fpx/info.json",
+        "recId": "ss:200643",
+        "download": "http://stor.artstor.org/stor/5224bd1e-41cb-4d92-9268-50d739828ec7.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/5224bd1e-41cb-4d92-9268-50d739828ec7_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.537842,
+          42.331968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-64",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Hayt Corner in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200646.fpx/info.json",
+        "recId": "ss:200646",
+        "download": "http://stor.artstor.org/stor/f88f84a6-651c-417b-b852-6ec9272f192f.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/f88f84a6-651c-417b-b852-6ec9272f192f_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.531493,
+          42.471494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-66",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Portland in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200647.fpx/info.json",
+        "recId": "ss:200647",
+        "download": "http://stor.artstor.org/stor/89d22b8b-2772-4873-a83f-c068da4278a1.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/89d22b8b-2772-4873-a83f-c068da4278a1_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53128,
+          42.515215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-70",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Lansingville in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200649.fpx/info.json",
+        "recId": "ss:200649",
+        "download": "http://stor.artstor.org/stor/10e096cf-fe90-4f47-9c24-a2b19bd3345d.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/10e096cf-fe90-4f47-9c24-a2b19bd3345d_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.534491,
+          42.608677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-4-60",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Stratton in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200644.fpx/info.json",
+        "recId": "ss:200644",
+        "download": "http://stor.artstor.org/stor/b4c0e9a9-0c20-47c7-b241-a2ae222b47c0.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/b4c0e9a9-0c20-47c7-b241-a2ae222b47c0_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.535739,
+          42.373926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-149",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Speedsville in Berkshire (13736) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200687.fpx/info.json",
+        "recId": "ss:200687",
+        "download": "http://stor.artstor.org/stor/f9ab189f-ddab-4707-8896-f157a000ce5d.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/f9ab189f-ddab-4707-8896-f157a000ce5d_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.281984,
+          42.328846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-153",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Caroline in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200689.fpx/info.json",
+        "recId": "ss:200689",
+        "download": "http://stor.artstor.org/stor/78da863b-f430-429c-a5d2-83831cafcca9.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/78da863b-f430-429c-a5d2-83831cafcca9_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.279961,
+          42.410839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-151",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Caroline in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200688.fpx/info.json",
+        "recId": "ss:200688",
+        "download": "http://stor.artstor.org/stor/7991e36a-5e24-4d40-ae04-184b66f678b0.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/7991e36a-5e24-4d40-ae04-184b66f678b0_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.281099,
+          42.368795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-159",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near McLean in Freeville (13068) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200692.fpx/info.json",
+        "recId": "ss:200692",
+        "download": "http://stor.artstor.org/stor/5932517f-1973-47ef-ad01-0aebc4ac825d.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/5932517f-1973-47ef-ad01-0aebc4ac825d_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.283226,
+          42.534093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-163",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Groton City in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200694.fpx/info.json",
+        "recId": "ss:200694",
+        "download": "http://stor.artstor.org/stor/77b96bc2-cc97-48bc-a2db-cce50077a7a8.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/77b96bc2-cc97-48bc-a2db-cce50077a7a8_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.285838,
+          42.614735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-161",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Nubia in Cortland (13045) in Cortland County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200693.fpx/info.json",
+        "recId": "ss:200693",
+        "download": "http://stor.artstor.org/stor/66cf02cc-3f18-42b4-8b54-48057ebef4eb.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/66cf02cc-3f18-42b4-8b54-48057ebef4eb_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.285154,
+          42.573062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-155",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered in Dryden (13053) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200690.fpx/info.json",
+        "recId": "ss:200690",
+        "download": "http://stor.artstor.org/stor/fd0d8799-927f-4733-b6a5-83e2068c2037.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/fd0d8799-927f-4733-b6a5-83e2068c2037_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.279289,
+          42.451461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-157",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered in Dryden (13053) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200691.fpx/info.json",
+        "recId": "ss:200691",
+        "download": "http://stor.artstor.org/stor/7ec71859-70c3-4e73-856d-0d993c79aee6.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/7ec71859-70c3-4e73-856d-0d993c79aee6_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.281062,
+          42.494718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-75",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near East Lansing in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200651.fpx/info.json",
+        "recId": "ss:200651",
+        "download": "http://stor.artstor.org/stor/e4c337b1-a502-4a57-91c0-225f49d1d926.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/e4c337b1-a502-4a57-91c0-225f49d1d926_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483383,
+          42.571663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-91",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near North Spencer in Spencer (14883) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200659.fpx/info.json",
+        "recId": "ss:200659",
+        "download": "http://stor.artstor.org/stor/6627de70-e570-4436-92b9-39b191000ad6.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/6627de70-e570-4436-92b9-39b191000ad6_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.481206,
+          42.248592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-89",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near South Danby in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200658.fpx/info.json",
+        "recId": "ss:200658",
+        "download": "http://stor.artstor.org/stor/e0489d8a-3f8f-47f5-b5d9-c20a8f51cbb7.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/e0489d8a-3f8f-47f5-b5d9-c20a8f51cbb7_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.480438,
+          42.289495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-83",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near South Hill in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200655.fpx/info.json",
+        "recId": "ss:200655",
+        "download": "http://stor.artstor.org/stor/dc5fcf04-6e95-4740-9095-87a3397ca549.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/dc5fcf04-6e95-4740-9095-87a3397ca549_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4787,
+          42.407747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-81",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Forest Home in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200654.fpx/info.json",
+        "recId": "ss:200654",
+        "download": "http://stor.artstor.org/stor/e0334c42-7732-4adc-b7df-481046fcec2e.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/e0334c42-7732-4adc-b7df-481046fcec2e_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.479685,
+          42.449785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-87",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Danby in Spencer (14883) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200657.fpx/info.json",
+        "recId": "ss:200657",
+        "download": "http://stor.artstor.org/stor/fae7e2dd-6834-4ac7-9da8-8a977884e536.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/fae7e2dd-6834-4ac7-9da8-8a977884e536_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.478271,
+          42.330403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-77",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Asbury in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200652.fpx/info.json",
+        "recId": "ss:200652",
+        "download": "http://stor.artstor.org/stor/6f462257-8bf5-4590-a006-4fded0ffe1e6.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/6f462257-8bf5-4590-a006-4fded0ffe1e6_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.481338,
+          42.532744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-79",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Lansing in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200653.fpx/info.json",
+        "recId": "ss:200653",
+        "download": "http://stor.artstor.org/stor/8c8f8b10-35c0-4b2c-9a71-8ffbbdb29b96.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/8c8f8b10-35c0-4b2c-9a71-8ffbbdb29b96_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.480366,
+          42.49164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-5-85",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Danby in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200656.fpx/info.json",
+        "recId": "ss:200656",
+        "download": "http://stor.artstor.org/stor/5d6535fe-11fa-4efc-bdaa-9e84b9ebda11.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/5d6535fe-11fa-4efc-bdaa-9e84b9ebda11_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.477633,
+          42.369255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-32",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Osgood Landing in Trumansburg (14886) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200631.fpx/info.json",
+        "recId": "ss:200631",
+        "download": "http://stor.artstor.org/stor/c8798615-dbf3-4013-ae5f-f5600ad18968.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/c8798615-dbf3-4013-ae5f-f5600ad18968_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.636588,
+          42.572183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-22",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Trumbull Corners in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200626.fpx/info.json",
+        "recId": "ss:200626",
+        "download": "http://stor.artstor.org/stor/e34113a2-43ac-4c53-8364-afb323487098.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/e34113a2-43ac-4c53-8364-afb323487098_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.629559,
+          42.374078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-24",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Bostwick Corners in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200627.fpx/info.json",
+        "recId": "ss:200627",
+        "download": "http://stor.artstor.org/stor/29726c06-86dd-4b7b-814f-8fc1d1cead03.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/29726c06-86dd-4b7b-814f-8fc1d1cead03_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63214,
+          42.411323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-28",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Jacksonville in Trumansburg (14886) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200629.fpx/info.json",
+        "recId": "ss:200629",
+        "download": "http://stor.artstor.org/stor/2c67c987-0a00-4e5c-bfd4-7ef7c2f0739c.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/2c67c987-0a00-4e5c-bfd4-7ef7c2f0739c_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.638135,
+          42.494652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-30",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Halseyville in Trumansburg (14886) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200630.fpx/info.json",
+        "recId": "ss:200630",
+        "download": "http://stor.artstor.org/stor/a7248771-e349-4fb1-9dfe-3e172cab012c.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/a7248771-e349-4fb1-9dfe-3e172cab012c_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.637623,
+          42.535749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-34",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Atwaters in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200632.fpx/info.json",
+        "recId": "ss:200632",
+        "download": "http://stor.artstor.org/stor/2a06792c-36b8-4b63-957e-be8e5db4ec97.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/2a06792c-36b8-4b63-957e-be8e5db4ec97_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.632134,
+          42.619963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-26",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Enfield in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200628.fpx/info.json",
+        "recId": "ss:200628",
+        "download": "http://stor.artstor.org/stor/9f1ec65b-f093-4a7a-82b6-55e6c4cc8806.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/9f1ec65b-f093-4a7a-82b6-55e6c4cc8806_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.636162,
+          42.451557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-18",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Cayuta in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200624.fpx/info.json",
+        "recId": "ss:200624",
+        "download": "http://stor.artstor.org/stor/0f0e900b-f389-4633-98a8-4b55a305161a.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/0f0e900b-f389-4633-98a8-4b55a305161a_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.633702,
+          42.29485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-2-20",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200625.fpx/info.json",
+        "recId": "ss:200625",
+        "download": "http://stor.artstor.org/stor/4a956144-191c-4a37-8139-9463f72438b5.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/4a956144-191c-4a37-8139-9463f72438b5_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.630318,
+          42.332182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-127",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near White Church in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200677.fpx/info.json",
+        "recId": "ss:200677",
+        "download": "http://stor.artstor.org/stor/3ef36c10-408f-44b2-87ca-713ea251a362.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/3ef36c10-408f-44b2-87ca-713ea251a362_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.380386,
+          42.330436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-115",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Pleasant Valley in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200671.fpx/info.json",
+        "recId": "ss:200671",
+        "download": "http://stor.artstor.org/stor/0228ce1e-5219-44f5-969f-146b2a105b2f.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/0228ce1e-5219-44f5-969f-146b2a105b2f_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.385752,
+          42.566579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-98",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Caroline Depot in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200669.fpx/info.json",
+        "recId": "ss:200669",
+        "download": "http://stor.artstor.org/stor/4470ee02-5c18-48bb-98ec-9c4310934bed.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/4470ee02-5c18-48bb-98ec-9c4310934bed_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.428158,
+          42.367265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-113",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Mosher Corners in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200670.fpx/info.json",
+        "recId": "ss:200670",
+        "download": "http://stor.artstor.org/stor/d547f54f-1ed6-43e4-9835-555fbc9b6fec.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/d547f54f-1ed6-43e4-9835-555fbc9b6fec_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.388475,
+          42.60517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-125",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Caroline in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200676.fpx/info.json",
+        "recId": "ss:200676",
+        "download": "http://stor.artstor.org/stor/358ead62-0366-4d4c-8f13-ae8de217af1e.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/358ead62-0366-4d4c-8f13-ae8de217af1e_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.381008,
+          42.369381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-117",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Peruville in Freeville (13068) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200672.fpx/info.json",
+        "recId": "ss:200672",
+        "download": "http://stor.artstor.org/stor/c612eec7-bdb4-421b-b200-c0daf1f22824.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/c612eec7-bdb4-421b-b200-c0daf1f22824_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.384087,
+          42.5284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-119",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Etna in Freeville (13068) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200673.fpx/info.json",
+        "recId": "ss:200673",
+        "download": "http://stor.artstor.org/stor/8a7533cb-4762-40b9-a0cd-c625aff39fab.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/8a7533cb-4762-40b9-a0cd-c625aff39fab_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.381365,
+          42.491336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-121",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Ellis in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200674.fpx/info.json",
+        "recId": "ss:200674",
+        "download": "http://stor.artstor.org/stor/098f3ede-7e8a-4d68-b466-34a34b64ca8e.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/098f3ede-7e8a-4d68-b466-34a34b64ca8e_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.381311,
+          42.449861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-7-123",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Ellis in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200675.fpx/info.json",
+        "recId": "ss:200675",
+        "download": "http://stor.artstor.org/stor/6b88b968-8828-4672-8e5f-a6624d56d3fb.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/6b88b968-8828-4672-8e5f-a6624d56d3fb_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.381178,
+          42.411054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-45",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Van Dorn Corner in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200637.fpx/info.json",
+        "recId": "ss:200637",
+        "download": "http://stor.artstor.org/stor/78a16714-8110-42ed-822a-256916947af5.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/78a16714-8110-42ed-822a-256916947af5_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.585078,
+          42.441254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-47",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Bostwick Corners in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200638.fpx/info.json",
+        "recId": "ss:200638",
+        "download": "http://stor.artstor.org/stor/15334aa6-982b-4dc9-bb26-ee4be3f8b6f2.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/15334aa6-982b-4dc9-bb26-ee4be3f8b6f2_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58373,
+          42.403326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-53",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Swartwood in Van Etten (14889) in Chemung County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200641.fpx/info.json",
+        "recId": "ss:200641",
+        "download": "http://stor.artstor.org/stor/55f9ce10-ed00-4af6-9f3f-58af7f1c17ea.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/55f9ce10-ed00-4af6-9f3f-58af7f1c17ea_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.579583,
+          42.276952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-37",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Lake Ridge in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200633.fpx/info.json",
+        "recId": "ss:200633",
+        "download": "http://stor.artstor.org/stor/7c811cbc-321f-4685-939b-637fe2599061.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/7c811cbc-321f-4685-939b-637fe2599061_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.586499,
+          42.60927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-41",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Willow Creek in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200635.fpx/info.json",
+        "recId": "ss:200635",
+        "download": "http://stor.artstor.org/stor/330b4047-5a1f-4a19-901a-521441393e2c.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/330b4047-5a1f-4a19-901a-521441393e2c_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.584356,
+          42.522654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-39",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Lansing Station in Lansing (14882) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200634.fpx/info.json",
+        "recId": "ss:200634",
+        "download": "http://stor.artstor.org/stor/7f5cf60b-198e-4c57-9a9a-3d39af72e964.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/7f5cf60b-198e-4c57-9a9a-3d39af72e964_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.586052,
+          42.565287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-51",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Stratton in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200640.fpx/info.json",
+        "recId": "ss:200640",
+        "download": "http://stor.artstor.org/stor/1f464c1b-8827-4d44-95dc-64a32eb0efd9.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/1f464c1b-8827-4d44-95dc-64a32eb0efd9_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.580592,
+          42.318909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-43",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Krum Corner in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200636.fpx/info.json",
+        "recId": "ss:200636",
+        "download": "http://stor.artstor.org/stor/a45f64f3-7ba3-4781-b997-a6b90e5d742d.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/a45f64f3-7ba3-4781-b997-a6b90e5d742d_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.582741,
+          42.480457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-3-49",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200639.fpx/info.json",
+        "recId": "ss:200639",
+        "download": "http://stor.artstor.org/stor/cca0ae56-8999-4b59-991b-f808bd8b153c.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/cca0ae56-8999-4b59-991b-f808bd8b153c_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.582276,
+          42.358908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-140",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Slaterville Springs in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200683.fpx/info.json",
+        "recId": "ss:200683",
+        "download": "http://stor.artstor.org/stor/d9870d20-1b61-4d09-809a-7f9acb8365e6.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/d9870d20-1b61-4d09-809a-7f9acb8365e6_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328818,
+          42.407641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-144",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Caroline Center in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200685.fpx/info.json",
+        "recId": "ss:200685",
+        "download": "http://stor.artstor.org/stor/5809e175-0bd0-4988-bbd6-54ec95b6fe5d.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/5809e175-0bd0-4988-bbd6-54ec95b6fe5d_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.329411,
+          42.330982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-142",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Caroline Center in Brooktondale (14817) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200684.fpx/info.json",
+        "recId": "ss:200684",
+        "download": "http://stor.artstor.org/stor/a20fab76-cd9b-4a2f-af76-94b4d07ea7ce.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/a20fab76-cd9b-4a2f-af76-94b4d07ea7ce_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328651,
+          42.370166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-138",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Willow Glen in Freeville (13068) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200682.fpx/info.json",
+        "recId": "ss:200682",
+        "download": "http://stor.artstor.org/stor/6a7b289d-1ce1-437d-86b6-95eff1090b63.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/6a7b289d-1ce1-437d-86b6-95eff1090b63_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.329321,
+          42.4465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-130",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Morton Corners in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200678.fpx/info.json",
+        "recId": "ss:200678",
+        "download": "http://stor.artstor.org/stor/e6aca08c-5e59-4bc2-85db-0e221fc884b3.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/e6aca08c-5e59-4bc2-85db-0e221fc884b3_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331488,
+          42.613363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-9-147",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Upper Fairfield in Candor (13743) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200686.fpx/info.json",
+        "recId": "ss:200686",
+        "download": "http://stor.artstor.org/stor/f0c3cea1-33cf-4062-afcb-d1fd92c9cefe.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/f0c3cea1-33cf-4062-afcb-d1fd92c9cefe_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.282544,
+          42.289556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-132",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Fitts Corners in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200679.fpx/info.json",
+        "recId": "ss:200679",
+        "download": "http://stor.artstor.org/stor/7075c157-084e-4b69-9707-bcd3eb979150.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/7075c157-084e-4b69-9707-bcd3eb979150_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328526,
+          42.57218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-134",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Red Mills in Freeville (13068) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200680.fpx/info.json",
+        "recId": "ss:200680",
+        "download": "http://stor.artstor.org/stor/4f3724ee-e113-42c1-9e5a-118c5fbf11ba.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/4f3724ee-e113-42c1-9e5a-118c5fbf11ba_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327773,
+          42.529778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-8-136",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Willow Glen in Dryden (13053) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200681.fpx/info.json",
+        "recId": "ss:200681",
+        "download": "http://stor.artstor.org/stor/8665b004-7e11-444b-adb1-63024e2f391e.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/8665b004-7e11-444b-adb1-63024e2f391e_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327105,
+          42.486771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-10-170",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Richford in Berkshire (13736) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200616.fpx/info.json",
+        "recId": "ss:200616",
+        "download": "http://stor.artstor.org/stor/97c9fd47-b4c7-4d20-a683-5e12ab7fb07f.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/97c9fd47-b4c7-4d20-a683-5e12ab7fb07f_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.232284,
+          42.348378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-08",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Cayutaville in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200620.fpx/info.json",
+        "recId": "ss:200620",
+        "download": "http://stor.artstor.org/stor/f48af21a-8f01-42ad-aeb9-4e2d18b3b297.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/f48af21a-8f01-42ad-aeb9-4e2d18b3b297_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.678776,
+          42.409178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-10",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Cayutaville in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200621.fpx/info.json",
+        "recId": "ss:200621",
+        "download": "http://stor.artstor.org/stor/a77a60ea-fb10-4c84-82b8-5089bceb4662.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/a77a60ea-fb10-4c84-82b8-5089bceb4662_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.676019,
+          42.369744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-06",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Mecklenburg in Trumansburg (14886) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200619.fpx/info.json",
+        "recId": "ss:200619",
+        "download": "http://stor.artstor.org/stor/c6f342d5-f98a-431a-baca-60553bfc671a.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/c6f342d5-f98a-431a-baca-60553bfc671a_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.678295,
+          42.453778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-04",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Waterburg in Trumansburg (14886) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200618.fpx/info.json",
+        "recId": "ss:200618",
+        "download": "http://stor.artstor.org/stor/e36bce42-5d43-4ece-9324-8c9d3bc1817e.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/e36bce42-5d43-4ece-9324-8c9d3bc1817e_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.679969,
+          42.497205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-14",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Cayuta in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200623.fpx/info.json",
+        "recId": "ss:200623",
+        "download": "http://stor.artstor.org/stor/ceced810-fce2-42b6-b393-67f27f1e21d2.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/ceced810-fce2-42b6-b393-67f27f1e21d2_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.675286,
+          42.295145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-12",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Alpine in Newfield (14867) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200622.fpx/info.json",
+        "recId": "ss:200622",
+        "download": "http://stor.artstor.org/stor/4bf221f3-e6e2-44f7-ba4b-e0f45e0285bf.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/4bf221f3-e6e2-44f7-ba4b-e0f45e0285bf_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.676088,
+          42.331929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-1-02",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered in Trumansburg (14886) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200617.fpx/info.json",
+        "recId": "ss:200617",
+        "download": "http://stor.artstor.org/stor/a9fd1f37-9ad1-4c10-987e-675f6b4fd12d.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/a9fd1f37-9ad1-4c10-987e-675f6b4fd12d_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.682942,
+          42.541135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-96",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near South Danby in Willseyville (13864) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200668.fpx/info.json",
+        "recId": "ss:200668",
+        "download": "http://stor.artstor.org/stor/d7a0bd86-d138-4397-9c9c-c23f35da8240.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/d7a0bd86-d138-4397-9c9c-c23f35da8240_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.430688,
+          42.327816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-106",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Howland Corners in Freeville (13068) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200663.fpx/info.json",
+        "recId": "ss:200663",
+        "download": "http://stor.artstor.org/stor/feffce6c-24d2-4826-b687-ad33d81aa89c.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/feffce6c-24d2-4826-b687-ad33d81aa89c_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.435771,
+          42.535384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-94",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near South Danby in Spencer (14883) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200667.fpx/info.json",
+        "recId": "ss:200667",
+        "download": "http://stor.artstor.org/stor/eba7a176-4101-44fe-b4f6-cef862e88c58.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/eba7a176-4101-44fe-b4f6-cef862e88c58_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.435247,
+          42.290194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-92",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Crum Town in Spencer (14883) in Tioga County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200666.fpx/info.json",
+        "recId": "ss:200666",
+        "download": "http://stor.artstor.org/stor/f4f84c55-a027-4cfe-b650-b5fe38a83551.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/f4f84c55-a027-4cfe-b650-b5fe38a83551_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.436209,
+          42.248716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-100",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Bethel Grove in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200660.fpx/info.json",
+        "recId": "ss:200660",
+        "download": "http://stor.artstor.org/stor/ab2eae17-fad5-4762-8497-ad8c7f3fe4d8.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/ab2eae17-fad5-4762-8497-ad8c7f3fe4d8_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4289,
+          42.409995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-104",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near West Dryden in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200662.fpx/info.json",
+        "recId": "ss:200662",
+        "download": "http://stor.artstor.org/stor/b1c05570-49f1-4f86-aebb-fc6b04dfe831.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/b1c05570-49f1-4f86-aebb-fc6b04dfe831_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.437536,
+          42.491013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-110",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near West Groton in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200665.fpx/info.json",
+        "recId": "ss:200665",
+        "download": "http://stor.artstor.org/stor/8bacbb3e-c366-428d-ac37-8884fdb788da.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/8bacbb3e-c366-428d-ac37-8884fdb788da_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.430374,
+          42.61537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-102",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Varna in Ithaca (14850) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200661.fpx/info.json",
+        "recId": "ss:200661",
+        "download": "http://stor.artstor.org/stor/b68ca931-eadf-4de0-94d0-f84d2695be1c.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/b68ca931-eadf-4de0-94d0-f84d2695be1c_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.434743,
+          42.450132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "80-6-108",
+        "county": "Tompkins",
+        "year": 1980,
+        "note": "Centered near Grotto in Groton (13073) in Tompkins County New York.",
+        "iiifUrl": "https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729419%2F200664.fpx/info.json",
+        "recId": "ss:200664",
+        "download": "http://stor.artstor.org/stor/9a19c972-455a-4133-a121-9c6153e1d70b.jpg",
+        "thumbUrl": "http://stor.artstor.org/stor/9a19c972-455a-4133-a121-9c6153e1d70b_size2",
+        "available": null,
+        "websiteUrl": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.434344,
+          42.573696
+        ]
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+}

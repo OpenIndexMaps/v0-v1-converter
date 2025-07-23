@@ -37,7 +37,7 @@ python oim_v0_to_v1_converter.py INPUT_FILE.geojson [OUTPUT_FILE.geojson] [--val
 ## Example
 
 ```bash
-python oim_v0_to_v1_converter.py ny-aerial-photos-1980.geojson --validate
+python oim_v0_to_v1_converter.py data/ny-aerial-photos-1980.geojson --validate
 ```
 
 ## Output
